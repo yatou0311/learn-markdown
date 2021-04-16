@@ -6,7 +6,7 @@ This is **bold** *italic* text sample.
 
 ---
 
-this is a [hyperlink](https://github.com)
+this is a [hyperlink](More.md)
 
 > this is a 引文
 
